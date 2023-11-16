@@ -3195,16 +3195,16 @@
         },
         {
             "name": "laemmi/contao-module-ctscore",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Laemmi/contao-module-ctscore.git",
-                "reference": "21e2e4b52e4f883669d91f4eb710f412086a6e39"
+                "reference": "7e4cec6b38b4d7360847824596a455833eb212fa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Laemmi/contao-module-ctscore/zipball/21e2e4b52e4f883669d91f4eb710f412086a6e39",
-                "reference": "21e2e4b52e4f883669d91f4eb710f412086a6e39",
+                "url": "https://api.github.com/repos/Laemmi/contao-module-ctscore/zipball/7e4cec6b38b4d7360847824596a455833eb212fa",
+                "reference": "7e4cec6b38b4d7360847824596a455833eb212fa",
                 "shasum": ""
             },
             "require": {
@@ -3254,9 +3254,9 @@
             ],
             "support": {
                 "issues": "https://github.com/Laemmi/contao-module-ctscore/issues",
-                "source": "https://github.com/Laemmi/contao-module-ctscore/tree/1.0.0"
+                "source": "https://github.com/Laemmi/contao-module-ctscore/tree/1.0.1"
             },
-            "time": "2023-11-04T15:06:58+00:00"
+            "time": "2023-11-16T20:00:26+00:00"
         },
         {
             "name": "lcobucci/clock",
